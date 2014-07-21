@@ -19,6 +19,8 @@
     [super viewDidLoad];
 
     NSLog(@"added");
+    NSLog(@"added one more");
+
     
 	// Do any additional setup after loading the view, typically from a nib.
 }
