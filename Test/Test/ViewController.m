@@ -20,6 +20,7 @@
 
     NSLog(@"added");
     NSLog(@"added one more");
+    NSLog(@"added from home 1 ");
 
     
 	// Do any additional setup after loading the view, typically from a nib.
